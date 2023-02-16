@@ -1,5 +1,4 @@
-module github.com/johnlonganecker/libpostal-rest
-
+module github.com/oc-iain-rodger/oc-libpostal-rest
 go 1.16
 
 require (

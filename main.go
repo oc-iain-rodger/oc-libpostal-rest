@@ -95,7 +95,7 @@ func main() {
 	}
 	port := os.Getenv("LISTEN_PORT")
 	if port == "" {
-		port = "8080"
+		port = "7050"
 	}
 
 	logLevel := os.Getenv("LOG_LEVEL")
